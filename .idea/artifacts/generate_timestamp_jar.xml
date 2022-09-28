@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="generate-timestamp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/generate_timestamp_jar</output-path>
+    <root id="archive" name="generate-timestamp.jar">
+      <element id="module-output" name="generate-timestamp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programming/Java/Maven/repository/com/1stleg/jnativehook/2.1.0/jnativehook-2.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
